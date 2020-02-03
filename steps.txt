@@ -1,0 +1,29 @@
+*********************Focus*********************
+1-Create the main file +
+2-bat file +
+3-Start the TK app +
+4-View static todos +
+5-Menubar -
+6-Status bar -
+7-Add a new todo -
+8-Curent db todos -
+9-Create a db of finished todos as previous -
+10-View all of previous -
+11-Get a deadline -
+12-Sort them by deadline -
+13-Add a functionality to create a new todo
+	in a new frame -
+	in a new window -
+14-When the deadline is in 24 hours
+	gets red and bold -
+15-When a todo is checked
+	the app delete it -
+    add it to previous -
+16-Prev has all the last todos
+	the starting and ending date of them -
+	how long they took -
+17-Icon -
+18-Class it -
+19-Test -
+20-Python installer -
+*******************AhmedAbo6*******************
